@@ -4,7 +4,7 @@ This repository hosts the release files for RM2 Keybridge.
 
 ## Downloads
 
-- `RM2-Keybridge-v0.1.0.apk`: Android application for Android 8.0 and later.
+- `RM2-Keybridge-v0.1.1.apk`: Current Android application for Android 8.0 and later.
 - `rm2-ssh-wlan-helper.bat`: Windows helper used to enable SSH over Wi-Fi on a reMarkable 2.
 
 ## First-time setup
