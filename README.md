@@ -1,11 +1,14 @@
-# RM2 Keybridge - Downloads
+# Projet Gobelin — reMarkable downloads
 
-This repository hosts the release files for RM2 Keybridge.
+This repository hosts the Android release files for RM2 Keybridge and SleepGoblin.
 
 ## Downloads
 
 - `RM2-Keybridge-v0.1.2.apk`: Current Android application for Android 8.0 and later.
+- [`SleepGoblin-v0.2.5.apk`](https://github.com/Gobelin-Pouilleux/RM2-Keybridge-Releases/raw/refs/heads/main/SleepGoblin-v0.2.5.apk): Manage, crop and send custom sleep screens to a reMarkable 2 (Android 8.0 and later).
 - `rm2-ssh-wlan-helper.bat`: Windows helper used to enable SSH over Wi-Fi on a reMarkable 2.
+
+SleepGoblin is signed with its dedicated production certificate. Test builds previously installed from Android Studio used a different debug signature and must be uninstalled once before installing this release.
 
 ## First-time setup
 
